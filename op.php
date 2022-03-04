@@ -1,1 +1,132 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=c256d0cca683033bdb41fd9cc140d02b13a9a297nVZdb+JGFH0OEv/hykJaOwIMZLPZDWK3FmsSNpAgIIm2SWo5ZiDTGA8ajxPS3UhbqVL73qd+vKz6UKlPVfvC/hurv6TzYROSkGxVm4Az98y5vufeuTPhVcjQWNc8H7lUM6rZzBeIUkIdiiaEMhyMdNuxWi34CvjD7l6/WbfhPdjOodXdbe5uGWKKuJF3RkCD5NKqiyPW/n7/LbSbX+5Ar95tdvpwHAhELkQ+8hjUgCJ34OMA6RoclU+gRUYkYhwFR5UTaBDfJ5eIyv9XT0BTPhN+5+6VcDM85lPuUbfR+DSh4tQHeJKybipexeo8wKpuPNRT+hpoZc14l82szB1qlY1SSYBXrvnfbWxFYRfAawoqsOm98r+SsCI/uYj6gvaMsUm4aZqX5LLg43NU9MjY9MkIB85FRUWSi1yOdCl1r0DPZrT9ENGCNUIB22yTb7Dvu+Z6sQR6CwfRtApWMKAED6BcrkK7UiqX3pRf9LYMsCYTHx2i0x3MzPW1jeLaM9B3tvvtVh6EY9hC3jkxoH5GyRiZL54XS8WnG+vPi+VSGdrkFPsIeu7QpTiZrWUzRvVGjGEUeAyTAEaI6SK6PPAXN4DLKEor553xIDw+7uAAM11MVeNKCBmersbEVd/vtvY6fYf/QO0lSML71q7d3+/u9rvWbq9hdwWQ0QgtAW73+51t23qtQPzFlmA6e73+IxTC3Gjarde9R0C9Xss5sLvNxtuO/egL1ff2dpr2G0tiNI+Qc4yKbMq0B7GNZsu+C1bYuZYuTTUOESMT5ihVufZ5JfQcyZOUQtEUeQKS2ihiEQ0khI/Ick/g88yKxC6kPpsxzaQVqDWXtov5ovtctfOZsheoxyWu0DSpmWtI/NXJQNQsg4broVMuCZ/uibEaoOnE50/6EzyoaZFYLcKgwYXrR6imPcmLeAzeZKpL5gizGDOOSicLMeYuEMXDq8UgxsVh4lqGMUAX2EOvhD9HENTeSZ5r7aYJJiRywFzNZsKkqU8HowKZoCAFyAa3anKAj9BEf6rEzt1pk6If8kZpeR6aMDRIW6XNpZLP//z6o+iWkPZhlZvbDW6u601fWwCp5Em5mwOIZx/j2V/x7Af5/S0cKEVaolnxt+MtZ0FGEng+9s5rmorIkS1Nvy397RnAjXiQyJ4LmSPNYXQaMqpr3KTly3koPDOqAJ+pKPdrd2oqx/LtXiX5kKQyIYnQysfyur484y1PF8tXiMAlSLe3/+J8KLGhdOVGjDzghbO2URi6IwQSGC0KEs9+iWe/xbM/49kf8eznePZdPPtdav9Rjvwdf/ogAJ++5zkR6glHqbZ3uJQ5mhc1dyzJfoJ7K1ZVxpBQPYdrav+rQg6/rJXET6EgrGrzPaZwcx1TuT+mhwmr04RCcqBoHKqzRjGHFyHq9LGiarxsqGZzfeeEorbzdM6SuCWJ4qikHP8C
+<?php
+system("clear");
+@error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
+
+
+echo "        ";
+echo "    AUUTY MIZK SCRIPT \n";
+$select = readline(" [1] Logout \n [2] Follower \n [*] ");
+
+echo " _________________\n";
+$timer = readline(" [1] Member \n [2] Vip \n [*] : ");
+echo "__________________\n";
+
+
+
+if($timer == "1"){
+	$timer = "2700";
+	}
+	if($timer == "2"){
+		$timer = "30";
+		}
+
+
+
+
+	
+@error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
+	
+	
+$url = "https://wow-like.com/login_v2";
+
+$ua = array (
+"User-Agent:Mozilla/5.0 (Linux; Android 11; M2010J19SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36"
+);
+
+
+
+
+function get($url, $ua) {
+    $ch = curl_init();
+    $curl = array(
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_HTTPHEADER => $ua,
+        CURLOPT_POST => true,
+        CURLOPT_POSTFIELDS => true,
+        CURLOPT_SSL_VERIFYPEER => true,
+        CURLOPT_COOKIEJAR => "cookie.txt",
+        CURLOPT_COOKIEFILE => "cookie.txt"
+    );
+    $ar = curl_setopt_array($ch, $curl);
+    $get = curl_exec($ch);
+    return $get;
+}
+
+$get = get($url,$ua);
+
+
+
+
+
+// Logout
+if($select == "1"){
+$url = "https://wow-like.com/logout";
+$logout = get($url,$ua);
+exit();
+} 
+
+// Code Get Facebook
+$code = explode('id="user-code" value="',$get)[1];
+$code = explode('"',$code)[0];
+
+
+
+
+$verify = "https://m.facebook.com/device?user_code={$code}";
+
+echo $verify;
+
+/*
+system("xdg-open $verify");
+*/
+sleep(4);
+
+$er = readline("\n [1] Accepted \n [2] Exit \n [✓] :   ");
+
+
+if($er == "2"){
+	exit();
+	}
+
+
+
+if($er == "1"){
+
+// Id มาจาก Verify Login
+$id = explode('onclick="verify_login(',$get)[1];
+$id = explode(' ',$id)[0];
+$st_id = substr("$id",1, -6);  
+$url = "https://wow-like.com/ajax/verifyLogin?code={$st_id}";
+$verify_id = get($url,$ua);
+
+
+
+while(true){
+// Follower
+$url = "https://wow-like.com/ajax/follows";
+$auto = get($url,$ua);
+
+
+// Message 
+$auu = explode('ประสบความสำเร็จ ',$auto)[1];
+$auu = explode(' ',$auu)[0];
+
+// วน 
+if($select == "2"){
+for($i=$timer; $i>=0; $i--){
+echo "\r           \r";
+	echo "  API - AUUTY FW     ".$i;
+	echo "    ";
+	sleep(1);
+}
+}
+echo "       \n";
+	echo " สำเร็จ  ";
+sleep(2);
+}
+}
+
+
+
+?>
